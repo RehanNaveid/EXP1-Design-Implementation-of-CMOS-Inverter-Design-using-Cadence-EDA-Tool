@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+
+![WhatsApp Image 2024-10-22 at 21 24 51_e6a4859a](https://github.com/user-attachments/assets/ca115c98-fd12-4210-8c30-f686f70b2b61)
 
 
  
@@ -64,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+![WhatsApp Image 2024-10-22 at 21 24 51_e2b8ad9f](https://github.com/user-attachments/assets/7bd3e43e-9bf5-4368-af39-553f3a502b24)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +78,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![WhatsApp Image 2024-10-22 at 21 24 52_d6f0a5a2](https://github.com/user-attachments/assets/91ba2c09-501b-49c4-8f3d-a966f0366503)
+
 
 
  
@@ -97,12 +100,13 @@ For Transient Analysis Settings and Output
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![WhatsApp Image 2024-10-22 at 21 24 51_67ba1bf4](https://github.com/user-attachments/assets/c99ea7ba-64b9-43b0-84ad-0d6c3e21986f)
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![WhatsApp Image 2024-10-22 at 21 24 52_b0b5e7a7](https://github.com/user-attachments/assets/02c758ed-cea4-46c6-a272-a2b251d27ebc)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![WhatsApp Image 2024-10-22 at 21 24 52_764f04c5](https://github.com/user-attachments/assets/899a07cb-23c7-43d0-82d8-01523339cf54)
+
 
  
 
